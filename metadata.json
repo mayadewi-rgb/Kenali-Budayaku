@@ -1,0 +1,6 @@
+{
+  "name": "Kenali Budayaku, Hargai Budayamu",
+  "description": "Media pembelajaran interaktif Pendidikan Pancasila Kelas VII: Jelajah Tradisi, Kearifan Lokal, dan Budaya Indonesia untuk Interactive Flat Panel (IFP) - SMP Islam Al Azhar 21 Solo Baru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
